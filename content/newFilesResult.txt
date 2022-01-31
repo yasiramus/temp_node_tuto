@@ -1,0 +1,2 @@
+Here is the write result: hello this the first text file in the content folder,
+        hello this the second text file in the content folder
